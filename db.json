@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Cristopher",
+      "id": 2
+    },
+    {
+      "name": "Fleta",
+      "id": 3
+    },
+    {
+      "name": "Ernesto",
+      "id": 4
+    },
+    {
+      "name": "Rylan",
+      "id": 5
+    },
+    {
+      "name": "Darrel",
+      "id": 6
+    },
+    {
+      "name": "Jarret",
+      "id": 7
+    },
+    {
+      "name": "Veronica",
+      "id": 8
+    },
+    {
+      "name": "Austen",
+      "id": 9
+    },
+    {
+      "name": "Daphney",
+      "id": 10
+    },
+    {
+      "name": "Mortimer",
+      "id": 11
+    },
+    {
+      "name": "Arely",
+      "id": 12
+    },
+    {
+      "name": "Alisa",
+      "id": 13
+    },
+    {
+      "name": "Alek",
+      "id": 14
+    },
+    {
+      "name": "Rosemary",
+      "id": 15
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
