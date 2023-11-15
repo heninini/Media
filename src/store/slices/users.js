@@ -44,7 +44,7 @@ const users = createSlice({
     });
     builder.addCase(removeUser.rejected, (state, action) => {
       state.isLoading = false;
-      state.error = action.error.message;
+      state.error = action.error;
     });
   },
 });
