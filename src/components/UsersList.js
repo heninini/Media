@@ -23,7 +23,7 @@ function UserList() {
   let content;
 
   if (isLoadingUser) {
-    content = <Skeleton times={6} className="h-10 w-full" />;
+    content = <Skeleton times={3} className="w-32 h-8" />;
   } else if (isLoadingError) {
     content = <div>Error fetching data ...</div>;
   } else {

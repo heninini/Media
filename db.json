@@ -5,82 +5,30 @@
       "name": "Myra"
     },
     {
-      "name": "Mekhi",
-      "id": 2
+      "name": "Dwight",
+      "id": 21
     },
     {
-      "name": "Duncan",
-      "id": 3
-    },
-    {
-      "name": "Candida",
-      "id": 4
-    },
-    {
-      "name": "Elvera",
-      "id": 5
-    },
-    {
-      "name": "Madeline",
-      "id": 6
-    },
-    {
-      "name": "Juana",
-      "id": 7
-    },
-    {
-      "name": "Zack",
-      "id": 8
-    },
-    {
-      "name": "Meta",
-      "id": 9
-    },
-    {
-      "name": "Austin",
-      "id": 10
-    },
-    {
-      "name": "Sheila",
-      "id": 11
-    },
-    {
-      "name": "Vivian",
-      "id": 12
-    },
-    {
-      "name": "Derrick",
-      "id": 13
-    },
-    {
-      "name": "Sherman",
-      "id": 14
-    },
-    {
-      "name": "Brigitte",
-      "id": 15
-    },
-    {
-      "name": "Kristofer",
-      "id": 16
-    },
-    {
-      "name": "Jaquan",
-      "id": 17
-    },
-    {
-      "name": "Howard",
-      "id": 18
-    },
-    {
-      "name": "Malinda",
-      "id": 19
-    },
-    {
-      "name": "Jose",
-      "id": 20
+      "name": "Narciso",
+      "id": 22
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Modern Cotton Computer",
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Frozen Soap",
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Plastic Shirt",
+      "id": 35
+    }
+  ],
   "photos": []
 }
